@@ -1,5 +1,5 @@
 # SamplePro
-sample projrct
+## sample projrct
 -- Shraddha
 *Sonaikar*
  # Devopps
